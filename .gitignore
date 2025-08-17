@@ -1,0 +1,12 @@
+# Xcode
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# SwiftPM
+.build/
+Packages/
+
+# API keys & config
+*.xcconfig
